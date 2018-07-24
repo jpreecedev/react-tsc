@@ -6,6 +6,7 @@ This repository has the absolute minimum code needed to start a new project usin
 * React, ReactDOM
 * TypeScript
 * Prettier & ESLint are preconfigured (change these to match your coding style)
+* Webpack 4
 
 ## To use
 Simply clone the repository and give it a new name. 
